@@ -1,3 +1,4 @@
 # Portfolio
 
-This code shows how to collect and download images from webcomic and compile it into a pdf
+This Excel contains graph that can be used for Statistical Process Control
+Mentioned Graph are I Chart and MR Chart
